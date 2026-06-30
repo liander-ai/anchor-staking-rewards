@@ -2,6 +2,7 @@
 name = "anchor-staking-rewards"
 version = "0.1.0"
 description = "A token staking vault with time-based rewards, built with Anchor"
+license = "MIT"
 edition = "2021"
 
 [lib]
