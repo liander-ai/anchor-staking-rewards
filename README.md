@@ -64,3 +64,10 @@ Devnet-grade reference, unaudited, not for production without review. `reward_ra
 ## Stack
 
 Anchor 1.x, Rust, SPL Token, LiteSVM.
+
+## More demos
+
+- **[chain-fusion-solana-wallet](https://github.com/liander-ai/chain-fusion-solana-wallet)** - a Solana wallet owned by an Internet Computer canister (threshold Ed25519, no bridge)
+- **[safe-solana-mcp](https://github.com/liander-ai/safe-solana-mcp)** - policy-gated Solana and ICP access for AI agents over MCP
+
+More at [github.com/liander-ai](https://github.com/liander-ai).
